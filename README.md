@@ -1,4 +1,4 @@
-# LLM-Engineer-Portfolio
+# GenAI-Engineer-Portfolio
 A step-by-step guide to designing, refining, and showcasing a portfolio to kickstarts the career.
 Here I will address a simple text intro. 
 
