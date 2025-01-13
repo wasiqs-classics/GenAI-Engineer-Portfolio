@@ -22,3 +22,5 @@ A Basic App to understand the working of Streamlit + Groq API with Python. Also,
 ## Agentic AI Projects
 Here I will list AI Agent based projects
  - AI Agent Restaurent Chatbot using LangGraph
+
+new will be added soon
