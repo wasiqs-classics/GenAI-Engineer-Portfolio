@@ -7,7 +7,9 @@ Here I will address a simple text intro.
 URL: https://pub.towardsai.net/build-your-llm-engineer-portfolio-a-3-month-roadmap-19826e39c185
 
 ## Data Science Projects
-Here I will list the projects related to DS
+1. Introduction to Numpy - Display of Capabilities
+2. Introduction to Pandas - Display of Capabilities
+3. Introduction to MatplotLib - Display of Capabilities
 
 ## ML Projects
 Here I will list the projects
