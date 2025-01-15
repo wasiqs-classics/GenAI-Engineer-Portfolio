@@ -5,6 +5,11 @@ Here I will address a simple text intro.
 3 months time. 
 
 URL: https://pub.towardsai.net/build-your-llm-engineer-portfolio-a-3-month-roadmap-19826e39c185
+## Display Projects
+1. Sir Wasiq GPT
+2. Al Bhook's ChatBot
+3. Hanco Support Bot
+
 
 ## Data Science Projects
 1. Introduction to Numpy - Display of Capabilities
