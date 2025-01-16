@@ -17,7 +17,9 @@ URL: https://pub.towardsai.net/build-your-llm-engineer-portfolio-a-3-month-roadm
 3. Introduction to MatplotLib - Display of Capabilities
 
 ## ML Projects
-Here I will list the projects
+1. Classification
+2. Prediction (Regression)
+3. Clustering
 
 ## Gen AI Projects
 Here I will list Gen AI projects
